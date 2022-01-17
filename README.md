@@ -1,5 +1,3 @@
-[![MasterHead](https://www.mygo.ge/uploads/blog/1584023795.jpg)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm InsaneEagle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
