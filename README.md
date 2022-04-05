@@ -7,21 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insaneeagle" alt="insaneeagle" /></a> </p>
 
-- 🔭 I’m currently working on [Hydrox Bot](https://replit.com/@AnshUrao2/Hydrox-Discord-Bot-2#index.js)
-
-- 👯 I’m looking to collaborate on [Music bot](https://replit.com/@AnshUrao2/Music-Bot-3#index.js)
-
-- 🤝 I’m looking for help with [500+ cmd bot](https://replit.com/@AnshUrao2/500-Cmd-V2-2#index.js)
-
 - 👨‍💻 All of my projects are available at [https://replit.com/@AnshUrao2](https://replit.com/@AnshUrao2)
 
-- 📫 How to reach me **alwpvt99@gmail.com**
+- 📫 How to reach me **ansh2491w@gmail.com**
 
 - ⚡ Fun fact **I Think We Can Code If We Practice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/M3FtkgXxjT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/M3FtkgXxjT" height="30" width="40" /></a>
+<a href="https://discord.gg/hCHWu8bbS4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/M3FtkgXxjT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
