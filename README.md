@@ -12,7 +12,6 @@ href="https://dsc.gg/nxtlvedevs">Discord</a>
 <p align="center"><br>
   <a href="https://github.com/InsaneEagle">
     <img src="https://lanyard.cnrad.dev/api/885087163807572018"/>
-
      </a>
 </p>
 <br><br>
