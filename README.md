@@ -1,8 +1,5 @@
 
 ### Hi there 👋 **InsaneEagle**
-<a
-href="https://dsc.gg/nxtlvedevs">Discord</a>
-</p>
 
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Coding
