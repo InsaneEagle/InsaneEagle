@@ -1,29 +1,29 @@
 
-### Hi there 👋 **InsaneEagle**
+<h1 align="center">Hi 👋, I'm Insane Eagle</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning Coding
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneeagle&label=Profile%20views&color=0e75b6&style=flat" alt="insaneeagle" /> </p>
 
-## What Am I Doing Now ?
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insaneeagle" alt="insaneeagle" /></a> </p>
 
-<p align="center"><br>
-  <a href="https://github.com/InsaneEagle">
-    <img src="https://lanyard.cnrad.dev/api/885087163807572018"/>
-     </a>
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **App development**
+
+- 📫 How to reach me **ansh2491w@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-<br><br>
-<p align="center">
-	<b>Languages & Frameworks</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-	<br><br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insaneeagle&show_icons=true&locale=en&layout=compact" alt="insaneeagle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insaneeagle&show_icons=true&locale=en" alt="insaneeagle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=insaneeagle&" alt="insaneeagle" /></p>
 
 ## 🔖 My Statistics
 &nbsp;
